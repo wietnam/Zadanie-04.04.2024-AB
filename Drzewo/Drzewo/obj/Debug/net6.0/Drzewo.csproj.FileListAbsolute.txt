@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\Drzewo\Drzewo\bin\Debug\net6.0\Drzewo.exe
+C:\Users\student\source\repos\Drzewo\Drzewo\bin\Debug\net6.0\Drzewo.deps.json
+C:\Users\student\source\repos\Drzewo\Drzewo\bin\Debug\net6.0\Drzewo.runtimeconfig.json
+C:\Users\student\source\repos\Drzewo\Drzewo\bin\Debug\net6.0\Drzewo.dll
+C:\Users\student\source\repos\Drzewo\Drzewo\bin\Debug\net6.0\Drzewo.pdb
+C:\Users\student\source\repos\Drzewo\Drzewo\obj\Debug\net6.0\Drzewo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\Drzewo\Drzewo\obj\Debug\net6.0\Drzewo.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Drzewo\Drzewo\obj\Debug\net6.0\Drzewo.AssemblyInfo.cs
+C:\Users\student\source\repos\Drzewo\Drzewo\obj\Debug\net6.0\Drzewo.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Drzewo\Drzewo\obj\Debug\net6.0\Drzewo.dll
+C:\Users\student\source\repos\Drzewo\Drzewo\obj\Debug\net6.0\refint\Drzewo.dll
+C:\Users\student\source\repos\Drzewo\Drzewo\obj\Debug\net6.0\Drzewo.pdb
+C:\Users\student\source\repos\Drzewo\Drzewo\obj\Debug\net6.0\Drzewo.genruntimeconfig.cache
+C:\Users\student\source\repos\Drzewo\Drzewo\obj\Debug\net6.0\ref\Drzewo.dll
